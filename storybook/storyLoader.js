@@ -5,13 +5,11 @@
 
 function loadStories() {
   require('../src/components/Button/Button.stories');
-  require('../src/components/TestComponent/TestComponent.stories');
   require('../src/components/Text/Text.stories');
 }
 
 const stories = [
   '../src/components/Button/Button.stories',
-  '../src/components/TestComponent/TestComponent.stories',
   '../src/components/Text/Text.stories',
 ];
 

@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "prestart": "sb-rn-get-stories",
     "storybook-watcher": "sb-rn-watcher",
-    "storybook": "start-storybook 7007",
+    "storybook": "start-storybook -p 7007",
     "build-storybook": "build-storybook",
     "prestorybook": "rnstl"
   },
